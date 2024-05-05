@@ -2,6 +2,8 @@
 <h1>Hi! I'm Tomás Malleret 👋</h1>
 </div>
 
+<img src="banner.png"/>
+
 
 <!--
 **tmpelay/tmpelay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
