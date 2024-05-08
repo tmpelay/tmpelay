@@ -5,7 +5,7 @@
 <img src="banner.png"/>
 
 <h2>My Skills</h2>
-<div display="flex">
+<div display="flex" align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=%23fafafa">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=%23fafafa">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=%23050505">
